@@ -1,6 +1,6 @@
 # Bitcoin Price Tracker
 
-Bitcoin Price Tracker is an iOS application developed using Swift. It allows users to track the price of Bitcoin in different currencies.
+Bitcoin Price Tracker is an iOS application developed using Swift by Priyanshu Singh. It allows users to track the price of Bitcoin in different currencies.
 
 ## Features
 
@@ -41,5 +41,3 @@ Contributions are welcome! If you'd like to contribute to Bitcoin Price Tracker,
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
